@@ -470,4 +470,8 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
+  <project path="kernel/hp/tenderloin" name="SuperBoy123/kernel_source" remote="github" revision="jb4.3" />
+	<project path="device/hp/tenderloin" name="SuperBoy123/device_source" remote="github" revision="jb4.3" />
+	<project path="device/hp/tenderloin-common" name="SuperBoy123/device-common_source" remote="github" revision="jb4.3" />
+	<project path="vendor/hp" name="SuperBoy123/vendor" remote="github" revision="jb4.3" />
 </manifest>
